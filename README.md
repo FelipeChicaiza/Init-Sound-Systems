@@ -4,4 +4,4 @@ add members name
 
 Diego Valero
 Juan Casares
->>>>>>> main
+Michael Cooley
