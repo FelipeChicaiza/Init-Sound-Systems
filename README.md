@@ -5,3 +5,4 @@ add members name
 Diego Valero
 Juan Casares
 Michael Cooley
+Juan Pirela
