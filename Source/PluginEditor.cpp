@@ -34,6 +34,15 @@ void EQAudioProcessorEditor::paint (juce::Graphics& g)
     //Line 32 was commented out for compability purposes 
 >>>>>>> 0e7f9f694da8f1cec18a460ba882f89e52f74b43
     //g.setFont (juce::FontOptions (15.0f));
+<<<<<<< Updated upstream
+    g.setFont (juce::FontOptions (15.0f));
+=======
+<<<<<<< HEAD
+=======
+    //Line 32 was commented out for compability purposes 
+>>>>>>> 0e7f9f694da8f1cec18a460ba882f89e52f74b43
+    //g.setFont (juce::FontOptions (15.0f));
+>>>>>>> Stashed changes
     g.drawFittedText ("Hello World!", getLocalBounds(), juce::Justification::centred, 1);
 }
 
