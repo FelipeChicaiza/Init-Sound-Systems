@@ -1,3 +1,7 @@
-Team Lead: Felipe Chicaiza
+# Felipe Chicaiza Team lead
+
+add members name
+
+Diego Valero
 
 Juan Casares
